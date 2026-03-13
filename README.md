@@ -1,0 +1,2 @@
+# Array-program-
+Practical program 
